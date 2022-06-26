@@ -4,37 +4,18 @@ Outputs an xlsx file containing the scraped postings.
 
 Packages required:
 <ul>
-  <li>
-    Beautiful Soup: 
-    <code>
-      $ pip install beautifulsoup4
-    </code>
-  </li>
-  <li>
-    Requests: 
-    <code>
-      $ pip install requests
-    </code>
-  </li>
-  <li>
-    lxml: 
-    <code>
-      $ pip install lxml
-    </code>
-  </li>
-   <li>
-    openpyxl: 
-    <code>
-      $ pip install openpyxl
-    </code>
-  </li>
-   <li>
-    pandas: 
-    <code>
-      $ pip install pandas
-    </code>
-  </li>
- </ul>
- 
+  <li>Beautiful Soup</li>
+  <li>Requests</li>
+  <li>lxml</li>
+  <li>openpyxl</li>
+  <li>pandas</li>
+</ul>
+<pre>
+  $ pip install beautifulsoup4
+  $ pip install requests
+  $ pip install lxml 
+  $ pip install openpyxl 
+  $ pip install pandas 
+</pre> 
 <h2>Disclaimer</h2>
 Scrape at your own risk. Please read Indeed's terms of service <a href="https://ca.indeed.com/legal">here<a> before using this tool.
